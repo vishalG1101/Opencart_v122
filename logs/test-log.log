@@ -736,3 +736,29 @@
 2024-11-20 21:11:04 [main] INFO  testcases.TC6_EndToEndTest - Verifying items in the shopping cart...
 2024-11-20 21:11:08 [main] INFO  testcases.TC6_EndToEndTest - Total price in shopping cart: $1,204.00
 2024-11-20 21:11:09 [main] INFO  testcases.TC6_EndToEndTest - WebDriver quit and removed from ThreadLocal.
+2025-07-09 12:18:35 [main] INFO  testcases.TC1_Registration - WebDriver initialized for: chrome
+2025-07-09 12:18:37 [main] INFO  testcases.TC1_Registration - Navigated to application URL:https://tutorialsninja.com/demo/
+2025-07-09 12:18:38 [main] INFO  testcases.TC1_Registration - Clicked on MyAccount link.
+2025-07-09 12:18:38 [main] INFO  testcases.TC1_Registration - Clicked on Register link, navigated to Registration page.
+2025-07-09 12:18:38 [main] INFO  testcases.TC1_Registration - Entering user details for registration...
+2025-07-09 12:18:38 [main] INFO  testcases.TC1_Registration - First Name set successfully...
+2025-07-09 12:18:38 [main] INFO  testcases.TC1_Registration - Last Name set successfully...
+2025-07-09 12:18:38 [main] INFO  testcases.TC1_Registration - Email entered:BNQPA@gmail.com
+2025-07-09 12:18:38 [main] INFO  testcases.TC1_Registration - Entered phone number:53516
+2025-07-09 12:18:39 [main] INFO  testcases.TC1_Registration - Entered password and confirmed password successfully.
+2025-07-09 12:18:39 [main] INFO  testcases.TC1_Registration - Agreed to Privacy Policy.
+2025-07-09 12:18:40 [main] INFO  testcases.TC1_Registration - Clicked 'Continue' to submit the registration form.
+2025-07-09 12:18:40 [main] INFO  testcases.TC1_Registration - Validating the confirmation message...
+2025-07-09 12:18:40 [main] INFO  testcases.TC1_Registration - Account registration successful. Confirmation message validated.
+2025-07-09 12:18:40 [main] INFO  testcases.TC1_Registration - WebDriver quit and removed from ThreadLocal.
+2025-07-09 12:18:41 [main] INFO  testcases.TC2_Login - WebDriver initialized for: chrome
+2025-07-09 12:18:47 [main] INFO  testcases.TC2_Login - Navigated to application URL: https://tutorialsninja.com/demo/
+2025-07-09 12:18:47 [main] INFO  testcases.TC2_Login - Clicked on 'My Account' link.
+2025-07-09 12:18:47 [main] INFO  testcases.TC2_Login - Clicked on 'Login' link, navigating to the Login Page.
+2025-07-09 12:18:47 [main] INFO  testcases.TC2_Login - Entering user login credentials...
+2025-07-09 12:18:47 [main] INFO  testcases.TC2_Login - Entered email: pavanol@abc.com
+2025-07-09 12:18:47 [main] INFO  testcases.TC2_Login - Entered password.
+2025-07-09 12:18:49 [main] INFO  testcases.TC2_Login - Clicked on the 'Login' button.
+2025-07-09 12:18:49 [main] INFO  testcases.TC2_Login - Verifying if the 'My Account' page is displayed...
+2025-07-09 12:18:49 [main] INFO  testcases.TC2_Login - Login successful. 'My Account' page is displayed.
+2025-07-09 12:18:49 [main] INFO  testcases.TC2_Login - WebDriver quit and removed from ThreadLocal.
